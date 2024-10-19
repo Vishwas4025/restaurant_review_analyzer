@@ -1,0 +1,6 @@
+flask
+pymupdf
+nltk
+scikit-learn
+pandas
+PyMuPDF
