@@ -6,6 +6,7 @@
 /backend/uploads/
 /backend/classifier.pkl
 /backend/vectorizer.pkl
+/testing datasets/Restaurant_Reviews.tsv
 
 /.pnp
 .pnp.js
